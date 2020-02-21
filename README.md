@@ -6,7 +6,7 @@ The project:
 * Includes JUnit 5 support
 * Packages source code for submission using the maven assembly plugin 
 
-Checkstyle and FindBugs checks were source from an unofficial source the following [repo](https://github.com/mkordas/algorithms-coursera/tree/master/config/findbugs).
+Checkstyle and FindBugs checks were sourced from the following [repo](https://github.com/mkordas/algorithms-coursera/tree/master/config/findbugs).
 
 ## Running tests
 
